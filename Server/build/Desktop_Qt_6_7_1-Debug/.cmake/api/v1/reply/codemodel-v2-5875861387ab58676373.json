@@ -1,0 +1,87 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"childIndexes" : 
+					[
+						1
+					],
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.21.1"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				},
+				{
+					"build" : "json",
+					"jsonFile" : "directory-json-Debug-2f46b448dd35ba75d9e5.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.1"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 1,
+					"source" : "json"
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"childIndexes" : 
+					[
+						1
+					],
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "ShareBook_srv",
+					"targetIndexes" : 
+					[
+						0
+					]
+				},
+				{
+					"directoryIndexes" : 
+					[
+						1
+					],
+					"name" : "nlohmann_json",
+					"parentIndex" : 0
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "ShareBook_srv::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ShareBook_srv-Debug-b26e75c0e88a0b5b71aa.json",
+					"name" : "ShareBook_srv",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/run/media/root/study/\u4eff\u5fae\u4fe1\u9879\u76ee/\u5b66\u59d0github\uff0c\u4eff\u4f5c\u5c0f\u7ea2\u4e66\u9879\u76ee/\u9644\u4ef6\u6750\u6599/\u6e90\u4ee3\u7801/ShareBook_srv/build/Desktop_Qt_6_7_1-Debug",
+		"source" : "/run/media/root/study/\u4eff\u5fae\u4fe1\u9879\u76ee/\u5b66\u59d0github\uff0c\u4eff\u4f5c\u5c0f\u7ea2\u4e66\u9879\u76ee/\u9644\u4ef6\u6750\u6599/\u6e90\u4ee3\u7801/ShareBook_srv"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}

@@ -1,0 +1,5 @@
+/run/media/root/study/仿微信项目/学姐github，仿作小红书项目/附件材料/源代码/ShareBook_srv/build/Desktop_Qt_6_7_1-Debug/CMakeFiles/ShareBook_srv.dir
+/run/media/root/study/仿微信项目/学姐github，仿作小红书项目/附件材料/源代码/ShareBook_srv/build/Desktop_Qt_6_7_1-Debug/CMakeFiles/edit_cache.dir
+/run/media/root/study/仿微信项目/学姐github，仿作小红书项目/附件材料/源代码/ShareBook_srv/build/Desktop_Qt_6_7_1-Debug/CMakeFiles/rebuild_cache.dir
+/run/media/root/study/仿微信项目/学姐github，仿作小红书项目/附件材料/源代码/ShareBook_srv/build/Desktop_Qt_6_7_1-Debug/json/CMakeFiles/edit_cache.dir
+/run/media/root/study/仿微信项目/学姐github，仿作小红书项目/附件材料/源代码/ShareBook_srv/build/Desktop_Qt_6_7_1-Debug/json/CMakeFiles/rebuild_cache.dir
